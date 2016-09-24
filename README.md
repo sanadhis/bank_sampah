@@ -1,27 +1,14 @@
 Trash Bank "Poin Mas" - Web App
 =======================================
 
-Trash Bank "Poin Mas" is an environmental 
+Trash Bank "Poin Mas" is an environmental and a social act in Depok. This project affinity is to reduce the number of households' waste by exchanging the waste with money. This web application is made on behalf to help the exchange process and transcation of trash-to-money for citizen.
 
 Environment
 -------------------
 
-Python 2.7, RHEL - CentOS 7.2, Oracle Traffic Director 12.2.1, Oracle WebLogicServer 12.2.1
+PHP 5.5, CodeIgniter, MySQL, Highchart-JS
 
-REQUIREMENTS
-------------
-
-- Java JDK
-- Python Library
-- Oracle WebLogic Server
-- Oracle Traffic Director
-
-
-Usage
-------------
-Perform $python #filename.py#
-
-## History
+## Project Duration
 
 August - November 2014
 
@@ -32,4 +19,4 @@ August - November 2014
 
 ## Owner
 
-- Prof. Bondan T. Sofyan (Leader of the Team)
+- Prof. Bondan T. Sofyan (Leader of the Team and Social Activity)
